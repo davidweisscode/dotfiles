@@ -1,0 +1,7 @@
+[user]
+	email = davidweisspost@gmail.com
+	name = David Weiss
+
+[alias]
+    tree = log --graph --decorate --pretty=oneline --abbrev-commit
+
